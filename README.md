@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm ARHAAN ARIF</h1>
-<h3 align="center">Python developer with AI/ML expertise and business acumen, seeking to transition into data science & GenAI role.</h3>
+<h3 align="center">Aspiring Data Scientist</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
